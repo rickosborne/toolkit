@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.trollworks.gcs</groupId>
-    <artifactId>gcs</artifactId>
-    <version>4.13.5</version>
-    <name>gcs</name>
-    <description>GURPS Character Sheet</description>
+    <groupId>com.trollworks.toolkit</groupId>
+    <artifactId>toolkit</artifactId>
+    <version>5.1.1</version>
+    <name>com.trollworks.toolkit</name>
+
     <properties>
         <maven.compiler.target>13</maven.compiler.target>
         <maven.compiler.source>13</maven.compiler.source>
