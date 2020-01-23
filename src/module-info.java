@@ -12,7 +12,8 @@
 module com.trollworks.toolkit {
     requires java.management;
     requires java.prefs;
-    requires gnu.trove;
+    // Sigh.  Sorry about this.
+    requires trove4j;
 
     requires transitive java.datatransfer;
     requires transitive java.desktop;
